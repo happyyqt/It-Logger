@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Techlog1",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2023-02-05T01:50:17.890Z",
+      "id": 1
+    },
+    {
+      "message": "Techlog2",
+      "attention": false,
+      "tech": "Qingtian Yu",
+      "date": "2023-02-05T01:52:44.736Z",
+      "id": 2
+    },
+    {
+      "message": "Urgent Fix of port 001",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2023-02-05T01:53:35.945Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Qingtian",
+      "lastName": "Yu",
+      "id": 3
+    }
+  ]
+}
